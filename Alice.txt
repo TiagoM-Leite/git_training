@@ -3,3 +3,4 @@ Coloquei esta linha para ser mostrada só no branch change_alice.
 Coloquei este texto no branch master depois de ter criado o branch add_patrick.
 Mudei este ficheiro no browser.
 Mudei a segunda vez no browser.
+Vou mudar antes de mudar este ficheiro no browser
