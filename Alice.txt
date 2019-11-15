@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Coloquei esta linha para ser mostrada só no branch change_alice
+Coloquei esta linha para ser mostrada só no branch change_alice.
